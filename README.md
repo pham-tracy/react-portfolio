@@ -11,7 +11,7 @@ This application was created with ReactJS, JavaScript, HTML, CSS, and Bootstrap.
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshot](#screenshots)
+- [Screenshot](#screenshot)
 - [License](#license)
 - [Questions](#questions)
 
