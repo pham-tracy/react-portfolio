@@ -11,7 +11,7 @@ This application was created with ReactJS, JavaScript, HTML, CSS, and Bootstrap.
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Screenshot](#screenshots)
 - [License](#license)
 - [Questions](#questions)
 
@@ -29,7 +29,7 @@ Install NPM packages:
 
 Visit the deployed application here:
 
-## Screenshots
+## Screenshot
 
 ![React Portfolio]()
 
