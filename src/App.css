@@ -5,3 +5,8 @@
 li {
 list-style-type: none;
 }
+
+#message {
+  height: 100px;
+  width: 100px,
+}
