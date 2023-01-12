@@ -3,8 +3,8 @@ import React from "react";
 const styles = {
   header: {
     background: "white",
-    fontSize: "80px",
-    color: "white",
+    fontSize: "40px",
+    color: "black",
   },
 };
 
