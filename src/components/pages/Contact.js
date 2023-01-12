@@ -16,11 +16,12 @@ export default function Contact() {
         <br />
 
         <label for="Message">Message</label>
-        <textarea
+        <input
           name="Message"
           type="textarea"
           placeholder="Message"
-        ></textarea>
+          id="message"
+        />
 
         <br />
         <button type="submit">Submit</button>
