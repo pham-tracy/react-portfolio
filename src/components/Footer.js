@@ -16,7 +16,7 @@ function Footer() {
           <section class="mb-4">
             {/* GitHub */}
             <a
-              class="btn btn-outline-light btn-floating m-1"
+              class="btn floating m-1"
               href="https://github.com/pham-tracy"
               role="button"
             >
@@ -25,7 +25,7 @@ function Footer() {
 
             {/* <!-- Linkedin --> */}
             <a
-              class="btn btn-outline-light btn-floating m-1"
+              class="btn btn-floating m-1"
               href="https://www.linkedin.com/in/tracy-pham-377981140/"
               role="button"
             >
