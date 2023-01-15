@@ -28,11 +28,11 @@ function NavTabs({ currentPage, handlePageChange }) {
       <div className="collapse navbar-collapse" id="navbarNav">
         <li className="nav-item">
           <a
-            href="#home"
-            onClick={() => handlePageChange("Home")}
+            href="#about"
+            onClick={() => handlePageChange("About")}
             className={currentPage === "Home" ? "nav-link active" : "nav-link"}
           >
-            Home
+            About
           </a>
         </li>{" "}
       </div>{" "}
