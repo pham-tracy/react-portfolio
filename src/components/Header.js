@@ -1,4 +1,5 @@
 import React from "react";
+import NavTabs from "./Navigation";
 
 const styles = {
   header: {
@@ -9,11 +10,7 @@ const styles = {
 };
 
 function Header() {
-  return (
-    <header style={styles.header}>
-      <h1>Tracy Pham</h1>
-    </header>
-  );
+  return <NavTabs />;
 }
 
 export default Header;
